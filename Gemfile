@@ -7,6 +7,7 @@ end
 
 gem 'coffee-rails', '~> 4.2'
 gem 'devise'
+gem 'geocoder'
 gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails'
 gem 'pg', '~> 0.18'
